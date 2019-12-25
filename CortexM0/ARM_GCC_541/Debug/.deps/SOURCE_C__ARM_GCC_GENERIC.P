@@ -1,0 +1,116 @@
+C:/nazar/poc/Design_Task_16.cydsn/CortexM0/ARM_GCC_541/Debug/main.o : C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/ADC_SAR_Seq.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/ADC_SAR_Seq_IRQ.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/ADC_SAR_Seq_intClock.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Clock_1.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Clock_2.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Clock_3.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Conv_Counter.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/CyDMA.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/CyFlash.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/CyLib.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Pin_AIn.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Pin_AIn_aliases.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Pin_B1.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Pin_B1_aliases.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Pin_B2.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Pin_B2_aliases.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Pin_B3.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Pin_B3_aliases.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Pin_SPI_MOSI.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Pin_SPI_MOSI_aliases.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Pin_SPI_SCLK.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Pin_SPI_SCLK_aliases.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Pin_SPI_SS.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Pin_SPI_SS_aliases.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/SPIM.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/SPIM_IntClock.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/SPIM_PVT.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Second_PWM.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/UART.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/UART_BOOT.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/UART_PINS.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/UART_PVT.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/UART_SCBCLK.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/UART_SPI_UART.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/UART_SPI_UART_PVT.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/UART_rx.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/UART_rx_aliases.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/UART_tx.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/UART_tx_aliases.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/cmsis_armcc.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/cmsis_compiler.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/cmsis_gcc.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/core_cm0.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/cyPm.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/cy_em_eeprom.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/cydisabledsheets.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/cyfitter.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/cypins.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/cytypes.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/isr_1.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/isr_100Hz.h C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/project.h C:/nazar/poc/Design_Task_16.cydsn/main.c 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/ADC_SAR_Seq.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/ADC_SAR_Seq_IRQ.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/ADC_SAR_Seq_intClock.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Clock_1.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Clock_2.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Clock_3.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Conv_Counter.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/CyDMA.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/CyFlash.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/CyLFClk.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/CyLib.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Pin_AIn.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Pin_AIn_aliases.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Pin_B1.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Pin_B1_aliases.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Pin_B2.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Pin_B2_aliases.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Pin_B3.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Pin_B3_aliases.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Pin_SPI_MOSI.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Pin_SPI_MOSI_aliases.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Pin_SPI_SCLK.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Pin_SPI_SCLK_aliases.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Pin_SPI_SS.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Pin_SPI_SS_aliases.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/SPIM.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/SPIM_IntClock.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/SPIM_PVT.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/Second_PWM.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/UART.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/UART_BOOT.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/UART_PINS.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/UART_PVT.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/UART_SCBCLK.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/UART_SPI_UART.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/UART_SPI_UART_PVT.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/UART_rx.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/UART_rx_aliases.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/UART_tx.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/UART_tx_aliases.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/cmsis_armcc.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/cmsis_compiler.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/cmsis_gcc.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/core_cm0.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/core_cm0_psoc4.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/cyPm.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/cy_em_eeprom.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/cydisabledsheets.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/cypins.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/cytypes.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/isr_1.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/isr_100Hz.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/Generated_Source/PSoC4/project.h : 
+
+C:/nazar/poc/Design_Task_16.cydsn/main.c : 
+

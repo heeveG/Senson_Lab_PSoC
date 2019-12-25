@@ -1,0 +1,6 @@
+C:\nazar\poc\Design_Task_16.cydsn\Design_Task_16.cyprj|15d735ba-941b-4835-aaaa-5ba7c3aa81e7
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|d7489f25-df80-4d56-bcb4-83d29603dc2f
+C:\Users\User\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|af8699e0-44e7-4fe8-849a-56fdef301b7b
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|f3ac81d8-5117-46f8-8460-fe3c70a2203f
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|f44b664b-807d-4227-bd9c-e8485f2b56ca
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|d08d1aa7-d6d3-4bd6-b312-c715ff9bd7b4

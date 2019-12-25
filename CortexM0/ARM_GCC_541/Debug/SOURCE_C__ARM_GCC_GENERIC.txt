@@ -1,0 +1,1 @@
+'C:\nazar\poc\Design_Task_16.cydsn\main.c' -o .o -T SOURCE_C__ARM_GCC_GENERIC -I 'C:\nazar\poc\Design_Task_16.cydsn' -I 'C:\nazar\poc\Design_Task_16.cydsn\Generated_Source\PSoC4' -f 'C:\nazar\poc\Design_Task_16.cydsn\CortexM0\ARM_GCC_541\Debug\.deps\SOURCE_C__ARM_GCC_GENERIC.d'
